@@ -20,8 +20,7 @@ Teamwork, adaptability, attention to detail, creative problem solving, time mana
 ## Get in Touch
 Feel free to connect with me:
 
-- Email: eyobaraya180@gmail.com ![image](https://github.com/user-attachments/assets/8360bd2c-545d-4ef6-ac4b-ac8c8cd774c1)
- 
+- Email: eyobaraya180@gmail.com
 - LinkedIn:  
 - GitHub: 
 
