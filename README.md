@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Eyob Araya 👋
 
 ## About Me
 I am a passionate Computer Science student skilled in software development, problem solving, and collaborative teamwork. I love building projects that combine creativity and technology.
@@ -22,6 +22,6 @@ Feel free to connect with me:
 
 - Email: eyobaraya180@gmail.com
 - LinkedIn:  
-- GitHub: 
+- GitHub: https://github.com/Eyobaraya
 
 ---
